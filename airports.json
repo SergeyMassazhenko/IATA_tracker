@@ -1,0 +1,6 @@
+{
+  "SVO": {"name": "Sheremetyevo International Airport", "city": "Moscow", "latitude": 55.9726, "longitude": 37.4146},
+  "DXB": {"name": "Dubai International Airport", "city": "Dubai", "latitude": 25.2532, "longitude": 55.3657},
+  "JFK": {"name": "John F. Kennedy International Airport", "city": "New York", "latitude": 40.6398, "longitude": -73.7781},
+  "LHR": {"name": "London Heathrow Airport", "city": "London", "latitude": 51.4700, "longitude": -0.4543}
+}
